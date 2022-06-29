@@ -1,7 +1,0 @@
-C:\Users\mustafa.eraslan\Documents\GitHub\WebApiWithJWT\WebApiWithJWT\obj\Debug\net6.0\WebApiWithJWT.csproj.AssemblyReference.cache
-C:\Users\mustafa.eraslan\Documents\GitHub\WebApiWithJWT\WebApiWithJWT\obj\Debug\net6.0\WebApiWithJWT.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\mustafa.eraslan\Documents\GitHub\WebApiWithJWT\WebApiWithJWT\obj\Debug\net6.0\WebApiWithJWT.AssemblyInfoInputs.cache
-C:\Users\mustafa.eraslan\Documents\GitHub\WebApiWithJWT\WebApiWithJWT\obj\Debug\net6.0\WebApiWithJWT.AssemblyInfo.cs
-C:\Users\mustafa.eraslan\Documents\GitHub\WebApiWithJWT\WebApiWithJWT\obj\Debug\net6.0\WebApiWithJWT.csproj.CoreCompileInputs.cache
-C:\Users\mustafa.eraslan\Documents\GitHub\WebApiWithJWT\WebApiWithJWT\obj\Debug\net6.0\WebApiWithJWT.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\mustafa.eraslan\Documents\GitHub\WebApiWithJWT\WebApiWithJWT\obj\Debug\net6.0\WebApiWithJWT.MvcApplicationPartsAssemblyInfo.cache

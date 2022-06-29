@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IdentityModel.Tokens.Jwt;
 using System.Linq;
@@ -6,8 +6,8 @@ using System.Security.Claims;
 using System.Text;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
-using WebApiWithJWT.Entities;
-using WebApiWithJWT.Helpers;
+using jwtCoreDemo.Entities;
+using jwtCoreDemo.Helpers;
 
 namespace WebApi.Services
 {
@@ -24,8 +24,9 @@ namespace WebApi.Services
         // Kullanıcılar veritabanı yerine manuel olarak listede tutulamaktadır. Önerilen tabiki veritabanında hash lenmiş olarak tutmaktır.
         private List<User> _users = new List<User>
         {
-            new User { Id = 1, Ad = "Burak", Soyad = "Coskun", KullaniciAdi = "burakc34", Sifre = "1234" },
-            new User { Id = 2, Ad = "Deniz", Soyad = "Erdem", KullaniciAdi = "deniz06", Sifre = "4321" }
+            new User { Id = 1, Ad = "Mustafa", Soyad = "Eraslan", KullaniciAdi = "Mustafa123", Sifre = "1234" },
+            new User { Id = 2, Ad = "Ahmet", Soyad = "Arslan", KullaniciAdi = "Ahmetgursu", Sifre = "4321" },
+            new User { Id = 3, Ad = "Omer", Soyad = "Urhan", KullaniciAdi = "Omer", Sifre = "1234" },
         };
 
         private readonly AppSettings _appSettings;
@@ -90,6 +91,6 @@ namespace WebApi.Services
             return _users;
         }
 
-
+        
     }
 }

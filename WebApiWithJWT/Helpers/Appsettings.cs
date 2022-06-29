@@ -1,4 +1,4 @@
-﻿namespace WebApiWithJWT.Helpers
+namespace jwtCoreDemo.Helpers
 {
     public class AppSettings
     {

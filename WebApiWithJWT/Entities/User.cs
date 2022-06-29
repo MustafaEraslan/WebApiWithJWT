@@ -1,4 +1,4 @@
-﻿namespace WebApiWithJWT.Entities
+namespace jwtCoreDemo.Entities
 {
     public class User
     {
